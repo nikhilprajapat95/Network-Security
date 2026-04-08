@@ -1,0 +1,1 @@
+[2026-04-08 13:42:33,674] root - ERROR - Failed to create MongoDB client: Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
